@@ -1,0 +1,31 @@
+#asia{
+    text-align:left;
+    background:linear-gradient(to right,lightpink,lightblue,lightgreen);
+}
+#europe{
+    text-align:left;
+    background:linear-gradient(red,green,blue);
+    color:white;
+}
+#northamerica{
+    text-align:left;
+    background:linear-gradient(to right,lightpink,lightblue,lightgreen);
+}
+#southamerica{
+    text-align:left;
+    background:linear-gradient(red,green,blue);
+    color:white;
+}
+#africa{
+    text-align:left;
+    background:linear-gradient(to right,lightpink,lightblue,lightgreen);
+}
+#antarctica{
+    text-align:left;
+    background:linear-gradient(red,green,blue);
+    color:white;
+}
+#oceania{
+    text-align:left;
+    background:linear-gradient(to right,lightpink,lightblue,lightgreen);
+}
